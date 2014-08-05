@@ -1,0 +1,13 @@
+Driver board made for fabscan v0.1, fully tested - version mini.
+→ Project in kicad will be added. Now it demands some cosmetic changes (not concerning functionality though)
+→ There is version for 3 stepsticks, PWM lights and so one too, to be tested yet :)
+
+How to:
+→ Diy mask is file for termotransfer of the board. It's size is 5x5 cm.
+→ It's needed to connect both vias - as it connect ground.
+→ Remember to flash your attiny2313 before solidering here - it's pain in the ( . ) to solder SPI cables on this board, trust me, I tried it.
+→ File to flash is in code\Release
+
+Enjoy!
+
+ps. Windows users shall pass through rite of passage know as Windows drivers hell, sorry I never been there - I can't help.
